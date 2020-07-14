@@ -1,6 +1,6 @@
 <h2 align='center'> Hi there, I'm Lina!</h2>
 <p align="center">
-   <samp> I'm a android developer from Volgograd, Russia. I made projects with :blue_heart:.</samp>
+   <samp> I'm a android developer from Volgograd, Russia. Loves programming, design, typography and cats :blue_heart:.</samp>
   <br><br>
   <a href="https://developer-kaczmarek.github.io/">Site</a> · <a href="https://www.linkedin.com/in/angelina-podbolotova-ba6b401ab/">LinkedIn</a> · <a href="mailto:developer.kaczmarek@yandex.ru">Email</a>
   <br>
