@@ -4,5 +4,4 @@
   <br><br>
   <a href="https://developer-kaczmarek.github.io/">Site</a> · <a href="https://www.linkedin.com/in/angelina-podbolotova-ba6b401ab/">LinkedIn</a> · <a href="mailto:developer.kaczmarek@yandex.ru">Email</a>
   <br>
-  <img src="https://github.com/developer-kaczmarek/developer-kaczmarek/blob/master/footer.png" width="600px"><br><br>
 </p>
