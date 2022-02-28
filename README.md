@@ -1,6 +1,6 @@
 <h2 align='center'> Hi there, I'm a Lina!</h2>
 <p align="center">
-   <samp>Hi! I`m a Lina. I`m an android developer. 
+   <samp>I`m an android developer. 
 Loves programming, design, typography and cats. 
 I follow the latest Android development trends and apply best practices :blue_heart:.</samp>
   <br><br>
