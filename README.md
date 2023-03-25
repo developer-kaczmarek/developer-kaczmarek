@@ -1,9 +1,19 @@
-<h2 align='center'> Hi there, I'm a Lina!</h2>
-<p align="center">
-   <samp>I`m an android developer. 
-Loves programming, design, typography and cats. 
-I follow the latest Android development trends and apply best practices :blue_heart:.</samp>
-  <br><br>
-  <a href="https://developer-kaczmarek.github.io/">Site</a> · <a href="https://www.linkedin.com/in/lina-podbolotova/">LinkedIn</a> · <a href="mailto:developer.kaczmarek@yandex.ru">Email</a>
-  <br>
-</p>
+
+![image](https://user-images.githubusercontent.com/41150309/227721115-80c0839d-defa-4f73-ae62-996a00cc58cb.png)
+## :book: About me
+```
+val developer-kaczmarek = person {
+    about {
+        name = "Lina Podbolotova"
+        company = "STRONG Team"
+        role = android_developer
+        city = "Almaty"
+    }
+    tech("Android", "Kotlin", "Flutter")
+    links {
+        telegram = "@kaczmarek",
+        email = "developer.kaczmarek@gmail.com"
+        linkedIn = "https://www.linkedin.com/in/lina-podbolotova/"
+    }
+}
+```
