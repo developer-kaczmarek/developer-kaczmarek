@@ -5,7 +5,7 @@
 val developer-kaczmarek = person {
     about {
         name = "Lina Podbolotova"
-        company = "STRONG Team"
+        company = "Tele2 Kazakhstan"
         role = android_developer
         city = "Almaty"
     }
